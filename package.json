@@ -1,0 +1,24 @@
+{
+  "name": "superbot",
+  "version": "1.0.0",
+  "description": "A discord bot written in JavaScript\r Built to replace simpleBot https://github.com/SomeAspy/SimpleBot",
+  "main": "init.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SomeAspy/SuperBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SomeAspy/SuperBot/issues"
+  },
+  "homepage": "https://github.com/SomeAspy/SuperBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  }
+}
